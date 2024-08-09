@@ -36,6 +36,8 @@ DrawTurtle_Fourier
 本项目主要提供了 Draw 和 Fourier 这两个功能模块，其中，Draw 模块用于画图，Fourier 模块用于生成绘图数据
 
 # 项目使用方法
+项目主要内容是 `DrawTurtle_Fourier` 这个文件， `DrawTurtle` 这个文件主要是项目使用实例， 使用者可以通过参考 `DrawTurtle` 的 `test1.py` 这个文件中的内容了解 `DrawTurtle_Fourier` 模块的使用方法。
+
 项目文件布局方面可以参考 DrawTurtle 和 DrawTurtle_Fourier 的设计，不同数据分别放在不同的文件夹下。
 
 > 但是要特别注意的是，同一个绘图项目的绘图数据要放在同一层，不然可能会出问题。比如绘制冰墩墩所需的数据都放在`bingdundun_new`这个文件下。
