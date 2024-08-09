@@ -1,12 +1,16 @@
+# 模块使用示例
 import DrawTurtle_Fourier as df
+
+# Fourier 使用示例, 只是示例, 建议不要直接运行
 
 # pd = df.Fourier(file_in='SVG格式数据/bingdundun.txt',
 #                 file_out='绘图数据/bingdundun_new/bingdundun42.txt', accuracy=2000)
 # pd.solve()
 
-# dr = df.Draw(file='绘图数据/datas0.txt',points=1500)
-# dr.draw()
 
+# Draw 使用示例, 多文件绘图的话, 里面参数可能需要经常调整, 用来微调曲线形状
+
+# pi
 # dr = df.Draw(file='绘图数据/pi.txt',scaling_per=(300,300,),translation=(-450,70),points=500)
 # dr.draw(color_fill='green')
 
