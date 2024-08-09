@@ -2,7 +2,7 @@
 基于二维傅里叶变换原理进行海龟绘图的自建模块
 
 # 前言
-1. 本项目是基于 b站@__咕小头__ 分享的相关资源创建的，开源项目地址是: __https://gitbub.com/cereslibra/TrutleAndFourier__ 。
+1. 本项目是基于 b站@__咕小头__ 分享的相关资源创建的，开源项目地址是: __https://github.com/cereslibra/TrutleAndFourier__ 。
    
 2. 本项目是本人刚开始学python面向对象时候的练手项目，旨在通过套壳大佬的代码加深对面向对象程序设计的理解，做出来后个人感觉还可以。
    
